@@ -25,16 +25,16 @@ nav_order: 3
 
 ## 준비
 
-배포한 실습 파일을 개인 OneDrive의 `심화교육_D2` 폴더에 저장합니다.
+아래 표의 파일 이름을 눌러 다운로드한 뒤, 개인 OneDrive의 `심화교육_D2` 폴더에 저장합니다.
 
 | 파일 | 쓰는 절 |
 |---|---|
-| `화장품판매_50만행.xlsx` | 1·2절 |
-| `excel-fastexcel-load.zip` | 2절 |
-| `cosmetic-sales-dashboard.zip` | 3·4·5절 |
-| `판매실적_01.csv` | 4·5절 |
-| `D2_전표_깨끗.pdf`, `D2_전표_흐림.pdf` | 6절 |
-| `D2_OCR지침.txt` | 6절 |
+| [`화장품판매_50만행.xlsx`](../../assets/download/deep/화장품판매_50만행.xlsx) | 1·2절 |
+| [`excel-fastexcel-load.zip`](../../assets/download/deep/excel-fastexcel-load.zip) | 2절 |
+| [`cosmetic-sales-dashboard.zip`](../../assets/download/deep/cosmetic-sales-dashboard.zip) | 3·4·5절 |
+| [`판매실적_01.csv`](../../assets/download/deep/판매실적_01.csv) | 4·5절 |
+| [`D2_전표_깨끗.pdf`](../../assets/download/deep/D2_전표_깨끗.pdf), [`D2_전표_흐림.pdf`](../../assets/download/deep/D2_전표_흐림.pdf) | 6절 |
+| [`D2_OCR지침.txt`](../../assets/download/deep/D2_OCR지침.txt) | 6절 |
 
 실습은 배포한 가상 데이터로만 합니다.
 
