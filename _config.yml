@@ -1,7 +1,7 @@
-title: "Copilot Studio Lab"
+title: "Copilot Studio Lab - Deep Dive"
 description: >-
-  Copilot Studio 3일 과정. 랩 구성은 확정 전입니다.
-baseurl: "/cs_lab_amore"
+  Self AI Academy 3기 심화교육 3일 과정.
+baseurl: "/cs_lab_deep"
 url: "https://jm-2ktech.github.io"
 
 theme: just-the-docs
@@ -24,7 +24,7 @@ aux_links:
   "Microsoft Learn Copilot Studio":
     - "https://learn.microsoft.com/ko-kr/microsoft-copilot-studio/"
   "GitHub":
-    - "https://github.com/JM-2ktech/cs_lab_amore"
+    - "https://github.com/JM-2ktech/cs_lab_deep"
 
 nav_sort: order
 color_scheme: light

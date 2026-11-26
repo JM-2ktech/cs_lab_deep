@@ -17,3 +17,4 @@ _workspace/
 # Codex(OpenAI) 로컬 설정 — 올리지 않는다
 .agents/
 AGENTS.md
+_handoff_codex/
